@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/typescript-notice/static/css/main.49aa3739.css",
+    "main.js": "/typescript-notice/static/js/main.e1391bf1.js",
+    "index.html": "/typescript-notice/index.html",
+    "main.49aa3739.css.map": "/typescript-notice/static/css/main.49aa3739.css.map",
+    "main.e1391bf1.js.map": "/typescript-notice/static/js/main.e1391bf1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49aa3739.css",
+    "static/js/main.e1391bf1.js"
+  ]
+}
